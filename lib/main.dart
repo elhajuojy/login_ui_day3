@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:login_ui_day3/core/constant/color.dart';
+import 'package:login_ui_day3/screens/loginpage.dart';
 import 'package:login_ui_day3/screens/welcomepage.dart';
 
 void main() {
@@ -22,7 +23,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         fontFamily: 'Roboto',
       ),
-      home: WelcomePage(),
+      home: LoginPage(),
     );
   }
 }
