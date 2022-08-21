@@ -8,6 +8,6 @@ flutter run
 ```
 
 ## ScreenShots
-<img src="assets/screenshot/login_ui.jpg" height="1000em" /> 
+<img src="assets/screenshot/login_ui.jpg" height="500em" /> 
 ## Links
 - 📫 How to reach me **elhajuojye@gmail.com**
