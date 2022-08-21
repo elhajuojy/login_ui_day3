@@ -9,7 +9,6 @@ flutter run
 
 ## ScreenShots
 <img src="assets/screenshot/login_ui.jpg" height="500em" /> 
-## ScreenShots 2
-<img src="assets/screenshot/one.png" height="500em" /> &nbsp; <img src="assets/screenshot/two.png" height="500em" />
+
 ## Links
 - 📫 How to reach me **elhajuojye@gmail.com**
